@@ -1,0 +1,20 @@
+p{
+    color:red;
+    font-size:16pt;
+    font-family:'Times New Roman';
+}
+body{
+    color:rgb(255, 0, 0);
+    background-color:rgb(19, 247, 255);
+    background-image:url("brick.jpg");
+    font-size:20pt;
+}
+.tytul{
+    font-weight:bold;
+    font-size:40px;
+    color:black;
+}
+.text{
+    font-weight:normal;
+    font-size:40pt;
+}
